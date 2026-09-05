@@ -1,0 +1,2 @@
+# pokopia-site
+1° Site da escola Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos, para a matéria de Desenvolvimento Web do 1° Ano do Ensino Médio Técnico. Site apenas para uso educativo e institucional
