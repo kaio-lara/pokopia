@@ -1,1 +1,2 @@
-1° Site da escola Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus São Carlos, para a matéria de Desenvolvimento Web do 1° Ano do Ensino Médio Técnico. Site apenas para uso educativo e institucional
+<h3>Sobre o site</h3>
+Foi 1° site de temática livre da matéria de Desenvolvimento Web 1, no IFSP - São Carlos. Feito no 1° bimestre de 2026. O site tem intuito totalmente institucional. 
